@@ -1,5 +1,5 @@
 use clap::Parser;
-use colored::Colorize;
+//use colored::Colorize;
 
 #[derive(Parser)]
 struct Options {
